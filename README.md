@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7f/cf/93/7fcf934afb655c2e0c04094a157e5c45.gif" alt="MasterHead" width="700" height="350"/>
+  <img src="https://i.pinimg.com/originals/7f/cf/93/7fcf934afb655c2e0c04094a157e5c45.gif" alt="MasterHead" width="700" height="320"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Anushka Tewari</h1>
@@ -40,12 +40,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Anushka404&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false" 
     alt="GitHub Stats" 
-    height="150"
+    height="170"
   />
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=Anushka404&theme=catppuccin_mocha&hide_border=true" 
     alt="GitHub Streak" 
-    height="150"
+    height="170"
   />
 </p>
 
