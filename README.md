@@ -40,12 +40,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Anushka404&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false" 
     alt="GitHub Stats" 
-    height="180"
+    height="150"
   />
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=Anushka404&theme=catppuccin_mocha&hide_border=true" 
     alt="GitHub Streak" 
-    height="180"
+    height="150"
   />
 </p>
 
@@ -53,7 +53,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka404&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
     alt="Top Languages" 
-    height="180"
+    height="150"
   />
 </p>
 
