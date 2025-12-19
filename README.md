@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7f/cf/93/7fcf934afb655c2e0c04094a157e5c45.gif" alt="MasterHead" width="100%" />
+  <img src="https://i.pinimg.com/originals/7f/cf/93/7fcf934afb655c2e0c04094a157e5c45.gif" alt="MasterHead" width="100%" height="80%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anushka Tewari</h1>
